@@ -1,17 +1,10 @@
-👋 Hi, I'm Harshita Mishra
+## 👩‍💻 About Me
 
-🎓 A dedicated BCA student with a strong passion for Cybersecurity and emerging technologies. I am currently building my expertise in Networking, Linux, Python, and Information Security through continuous learning and hands-on projects.
+Aspiring Cybersecurity Professional and BCA student with a strong interest in Information Security, Networking, Linux, and Python. Passionate about understanding system security, identifying vulnerabilities, and developing practical solutions to modern cybersecurity challenges. Continuously enhancing technical and problem-solving skills through hands-on projects and real-world learning experiences.
 
-💻 I am particularly interested in:
-• Cybersecurity & Ethical Hacking
-• Network Security and System Administration
-• Linux and Automation using Python
-• Problem Solving and Technical Research
-• Open Source Contributions and Collaborative Development
+🔐 Interests: Cybersecurity • Ethical Hacking • Networking • Linux • Python • Open Source
 
-🚀 I believe in continuous improvement, adaptability, and lifelong learning. My goal is to develop practical skills that enable me to contribute effectively to secure and innovative technology solutions.
-
-🌱 Currently exploring advanced cybersecurity concepts and seeking opportunities to gain industry experience, collaborate on meaningful projects, and expand my technical knowledge.
+📍 Punjab, India | 📧 Open to internships, collaborations, and professional opportunities.
 
 📫 Open to internships, collaborations, and networking opportunities.
 ## 🌐 Socials:
